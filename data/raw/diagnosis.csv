@@ -1,0 +1,1001 @@
+diagnosis_id,admission_id,disease,severity
+D00001,A00001,Ovarian Cyst,Critical
+D00002,A00002,Fracture,Mild
+D00003,A00003,Heart Attack,Critical
+D00004,A00004,Diabetes,Moderate
+D00005,A00005,Hypertension,Moderate
+D00006,A00006,Arthritis,Mild
+D00007,A00007,Arthritis,Mild
+D00008,A00008,Heart Attack,Mild
+D00009,A00009,Hypertension,Moderate
+D00010,A00010,Arthritis,Moderate
+D00011,A00011,Hypertension,Mild
+D00012,A00012,Stroke,Mild
+D00013,A00013,Fracture,Critical
+D00014,A00014,Fracture,Mild
+D00015,A00015,Fracture,Moderate
+D00016,A00016,Pregnancy Complication,Mild
+D00017,A00017,Fracture,Mild
+D00018,A00018,Ovarian Cyst,Moderate
+D00019,A00019,Migraine,Moderate
+D00020,A00020,Hypertension,Mild
+D00021,A00021,Pregnancy Complication,Critical
+D00022,A00022,Diabetes,Mild
+D00023,A00023,Diabetes,Mild
+D00024,A00024,Ovarian Cyst,Mild
+D00025,A00025,Ovarian Cyst,Critical
+D00026,A00026,Heart Attack,Critical
+D00027,A00027,Heart Attack,Moderate
+D00028,A00028,Fever,Mild
+D00029,A00029,Stroke,Mild
+D00030,A00030,Pregnancy Complication,Critical
+D00031,A00031,Fever,Mild
+D00032,A00032,Stroke,Moderate
+D00033,A00033,Migraine,Mild
+D00034,A00034,Fracture,Mild
+D00035,A00035,Fracture,Critical
+D00036,A00036,Stroke,Moderate
+D00037,A00037,Stroke,Moderate
+D00038,A00038,Ovarian Cyst,Mild
+D00039,A00039,Pregnancy Complication,Critical
+D00040,A00040,Heart Attack,Mild
+D00041,A00041,Heart Attack,Critical
+D00042,A00042,Heart Attack,Critical
+D00043,A00043,Fever,Mild
+D00044,A00044,Diabetes,Mild
+D00045,A00045,Fracture,Mild
+D00046,A00046,Migraine,Critical
+D00047,A00047,Diabetes,Moderate
+D00048,A00048,Ovarian Cyst,Critical
+D00049,A00049,Stroke,Critical
+D00050,A00050,Fracture,Mild
+D00051,A00051,Fever,Critical
+D00052,A00052,Heart Attack,Critical
+D00053,A00053,Stroke,Moderate
+D00054,A00054,Fracture,Critical
+D00055,A00055,Heart Attack,Critical
+D00056,A00056,Ovarian Cyst,Mild
+D00057,A00057,Hypertension,Moderate
+D00058,A00058,Fever,Moderate
+D00059,A00059,Ovarian Cyst,Mild
+D00060,A00060,Hypertension,Moderate
+D00061,A00061,Pregnancy Complication,Mild
+D00062,A00062,Stroke,Moderate
+D00063,A00063,Heart Attack,Moderate
+D00064,A00064,Fever,Moderate
+D00065,A00065,Ovarian Cyst,Critical
+D00066,A00066,Stroke,Moderate
+D00067,A00067,Arthritis,Critical
+D00068,A00068,Migraine,Critical
+D00069,A00069,Fever,Mild
+D00070,A00070,Arthritis,Moderate
+D00071,A00071,Stroke,Moderate
+D00072,A00072,Migraine,Moderate
+D00073,A00073,Diabetes,Critical
+D00074,A00074,Arthritis,Mild
+D00075,A00075,Diabetes,Moderate
+D00076,A00076,Arthritis,Mild
+D00077,A00077,Fever,Moderate
+D00078,A00078,Pregnancy Complication,Mild
+D00079,A00079,Heart Attack,Critical
+D00080,A00080,Migraine,Critical
+D00081,A00081,Stroke,Moderate
+D00082,A00082,Migraine,Critical
+D00083,A00083,Ovarian Cyst,Mild
+D00084,A00084,Fever,Moderate
+D00085,A00085,Pregnancy Complication,Critical
+D00086,A00086,Fracture,Critical
+D00087,A00087,Ovarian Cyst,Mild
+D00088,A00088,Diabetes,Mild
+D00089,A00089,Arthritis,Mild
+D00090,A00090,Pregnancy Complication,Mild
+D00091,A00091,Fever,Moderate
+D00092,A00092,Arthritis,Moderate
+D00093,A00093,Hypertension,Critical
+D00094,A00094,Diabetes,Moderate
+D00095,A00095,Hypertension,Critical
+D00096,A00096,Diabetes,Moderate
+D00097,A00097,Migraine,Mild
+D00098,A00098,Arthritis,Mild
+D00099,A00099,Heart Attack,Moderate
+D00100,A00100,Diabetes,Moderate
+D00101,A00101,Fracture,Critical
+D00102,A00102,Fever,Mild
+D00103,A00103,Fracture,Critical
+D00104,A00104,Fever,Mild
+D00105,A00105,Migraine,Critical
+D00106,A00106,Fever,Mild
+D00107,A00107,Arthritis,Critical
+D00108,A00108,Arthritis,Mild
+D00109,A00109,Arthritis,Critical
+D00110,A00110,Fever,Mild
+D00111,A00111,Hypertension,Moderate
+D00112,A00112,Ovarian Cyst,Moderate
+D00113,A00113,Diabetes,Moderate
+D00114,A00114,Arthritis,Critical
+D00115,A00115,Pregnancy Complication,Critical
+D00116,A00116,Fracture,Mild
+D00117,A00117,Arthritis,Mild
+D00118,A00118,Hypertension,Moderate
+D00119,A00119,Arthritis,Moderate
+D00120,A00120,Migraine,Moderate
+D00121,A00121,Stroke,Mild
+D00122,A00122,Heart Attack,Critical
+D00123,A00123,Pregnancy Complication,Critical
+D00124,A00124,Heart Attack,Moderate
+D00125,A00125,Hypertension,Mild
+D00126,A00126,Hypertension,Critical
+D00127,A00127,Diabetes,Moderate
+D00128,A00128,Stroke,Critical
+D00129,A00129,Pregnancy Complication,Critical
+D00130,A00130,Pregnancy Complication,Moderate
+D00131,A00131,Ovarian Cyst,Critical
+D00132,A00132,Heart Attack,Moderate
+D00133,A00133,Hypertension,Moderate
+D00134,A00134,Diabetes,Critical
+D00135,A00135,Arthritis,Moderate
+D00136,A00136,Pregnancy Complication,Mild
+D00137,A00137,Heart Attack,Critical
+D00138,A00138,Fever,Mild
+D00139,A00139,Pregnancy Complication,Moderate
+D00140,A00140,Fracture,Critical
+D00141,A00141,Diabetes,Moderate
+D00142,A00142,Heart Attack,Moderate
+D00143,A00143,Diabetes,Moderate
+D00144,A00144,Diabetes,Moderate
+D00145,A00145,Stroke,Critical
+D00146,A00146,Ovarian Cyst,Mild
+D00147,A00147,Stroke,Critical
+D00148,A00148,Arthritis,Critical
+D00149,A00149,Stroke,Critical
+D00150,A00150,Ovarian Cyst,Moderate
+D00151,A00151,Heart Attack,Moderate
+D00152,A00152,Stroke,Mild
+D00153,A00153,Arthritis,Mild
+D00154,A00154,Hypertension,Critical
+D00155,A00155,Hypertension,Critical
+D00156,A00156,Pregnancy Complication,Moderate
+D00157,A00157,Fever,Critical
+D00158,A00158,Migraine,Critical
+D00159,A00159,Ovarian Cyst,Moderate
+D00160,A00160,Arthritis,Critical
+D00161,A00161,Pregnancy Complication,Moderate
+D00162,A00162,Stroke,Moderate
+D00163,A00163,Ovarian Cyst,Critical
+D00164,A00164,Fracture,Moderate
+D00165,A00165,Hypertension,Critical
+D00166,A00166,Hypertension,Mild
+D00167,A00167,Diabetes,Moderate
+D00168,A00168,Hypertension,Mild
+D00169,A00169,Diabetes,Critical
+D00170,A00170,Fever,Critical
+D00171,A00171,Stroke,Moderate
+D00172,A00172,Arthritis,Mild
+D00173,A00173,Arthritis,Critical
+D00174,A00174,Diabetes,Mild
+D00175,A00175,Ovarian Cyst,Critical
+D00176,A00176,Fracture,Critical
+D00177,A00177,Diabetes,Moderate
+D00178,A00178,Stroke,Critical
+D00179,A00179,Migraine,Moderate
+D00180,A00180,Fracture,Moderate
+D00181,A00181,Ovarian Cyst,Critical
+D00182,A00182,Arthritis,Critical
+D00183,A00183,Hypertension,Moderate
+D00184,A00184,Arthritis,Mild
+D00185,A00185,Pregnancy Complication,Moderate
+D00186,A00186,Arthritis,Critical
+D00187,A00187,Arthritis,Critical
+D00188,A00188,Fever,Mild
+D00189,A00189,Ovarian Cyst,Critical
+D00190,A00190,Hypertension,Mild
+D00191,A00191,Migraine,Moderate
+D00192,A00192,Arthritis,Critical
+D00193,A00193,Fever,Critical
+D00194,A00194,Stroke,Moderate
+D00195,A00195,Migraine,Mild
+D00196,A00196,Fracture,Mild
+D00197,A00197,Migraine,Moderate
+D00198,A00198,Diabetes,Moderate
+D00199,A00199,Ovarian Cyst,Critical
+D00200,A00200,Ovarian Cyst,Moderate
+D00201,A00201,Migraine,Moderate
+D00202,A00202,Heart Attack,Moderate
+D00203,A00203,Stroke,Moderate
+D00204,A00204,Fever,Mild
+D00205,A00205,Stroke,Mild
+D00206,A00206,Fracture,Mild
+D00207,A00207,Pregnancy Complication,Moderate
+D00208,A00208,Hypertension,Critical
+D00209,A00209,Diabetes,Moderate
+D00210,A00210,Stroke,Mild
+D00211,A00211,Fever,Moderate
+D00212,A00212,Stroke,Mild
+D00213,A00213,Arthritis,Moderate
+D00214,A00214,Fever,Critical
+D00215,A00215,Ovarian Cyst,Critical
+D00216,A00216,Hypertension,Mild
+D00217,A00217,Fever,Mild
+D00218,A00218,Diabetes,Critical
+D00219,A00219,Pregnancy Complication,Mild
+D00220,A00220,Diabetes,Moderate
+D00221,A00221,Ovarian Cyst,Moderate
+D00222,A00222,Fever,Mild
+D00223,A00223,Fever,Critical
+D00224,A00224,Heart Attack,Critical
+D00225,A00225,Pregnancy Complication,Moderate
+D00226,A00226,Fever,Mild
+D00227,A00227,Stroke,Moderate
+D00228,A00228,Migraine,Critical
+D00229,A00229,Diabetes,Critical
+D00230,A00230,Stroke,Moderate
+D00231,A00231,Fever,Mild
+D00232,A00232,Heart Attack,Mild
+D00233,A00233,Fracture,Moderate
+D00234,A00234,Hypertension,Moderate
+D00235,A00235,Diabetes,Critical
+D00236,A00236,Fever,Moderate
+D00237,A00237,Arthritis,Critical
+D00238,A00238,Stroke,Moderate
+D00239,A00239,Diabetes,Moderate
+D00240,A00240,Fracture,Moderate
+D00241,A00241,Fracture,Moderate
+D00242,A00242,Migraine,Critical
+D00243,A00243,Pregnancy Complication,Moderate
+D00244,A00244,Stroke,Critical
+D00245,A00245,Fever,Critical
+D00246,A00246,Ovarian Cyst,Critical
+D00247,A00247,Stroke,Moderate
+D00248,A00248,Pregnancy Complication,Moderate
+D00249,A00249,Arthritis,Critical
+D00250,A00250,Heart Attack,Critical
+D00251,A00251,Ovarian Cyst,Moderate
+D00252,A00252,Hypertension,Mild
+D00253,A00253,Pregnancy Complication,Moderate
+D00254,A00254,Diabetes,Mild
+D00255,A00255,Heart Attack,Moderate
+D00256,A00256,Stroke,Mild
+D00257,A00257,Migraine,Critical
+D00258,A00258,Hypertension,Critical
+D00259,A00259,Arthritis,Mild
+D00260,A00260,Diabetes,Mild
+D00261,A00261,Hypertension,Moderate
+D00262,A00262,Diabetes,Moderate
+D00263,A00263,Diabetes,Mild
+D00264,A00264,Fracture,Critical
+D00265,A00265,Migraine,Critical
+D00266,A00266,Fever,Moderate
+D00267,A00267,Migraine,Critical
+D00268,A00268,Hypertension,Moderate
+D00269,A00269,Fracture,Mild
+D00270,A00270,Fever,Critical
+D00271,A00271,Diabetes,Critical
+D00272,A00272,Ovarian Cyst,Mild
+D00273,A00273,Arthritis,Mild
+D00274,A00274,Diabetes,Moderate
+D00275,A00275,Heart Attack,Mild
+D00276,A00276,Ovarian Cyst,Mild
+D00277,A00277,Fracture,Critical
+D00278,A00278,Diabetes,Moderate
+D00279,A00279,Migraine,Moderate
+D00280,A00280,Ovarian Cyst,Moderate
+D00281,A00281,Fever,Critical
+D00282,A00282,Arthritis,Moderate
+D00283,A00283,Fever,Mild
+D00284,A00284,Migraine,Moderate
+D00285,A00285,Stroke,Moderate
+D00286,A00286,Migraine,Critical
+D00287,A00287,Stroke,Mild
+D00288,A00288,Heart Attack,Critical
+D00289,A00289,Ovarian Cyst,Mild
+D00290,A00290,Hypertension,Mild
+D00291,A00291,Diabetes,Critical
+D00292,A00292,Fever,Mild
+D00293,A00293,Migraine,Critical
+D00294,A00294,Migraine,Critical
+D00295,A00295,Diabetes,Mild
+D00296,A00296,Fever,Moderate
+D00297,A00297,Fracture,Critical
+D00298,A00298,Ovarian Cyst,Mild
+D00299,A00299,Pregnancy Complication,Moderate
+D00300,A00300,Hypertension,Mild
+D00301,A00301,Fever,Critical
+D00302,A00302,Fracture,Mild
+D00303,A00303,Diabetes,Moderate
+D00304,A00304,Arthritis,Moderate
+D00305,A00305,Fracture,Moderate
+D00306,A00306,Ovarian Cyst,Critical
+D00307,A00307,Ovarian Cyst,Moderate
+D00308,A00308,Ovarian Cyst,Moderate
+D00309,A00309,Stroke,Moderate
+D00310,A00310,Stroke,Mild
+D00311,A00311,Migraine,Moderate
+D00312,A00312,Stroke,Critical
+D00313,A00313,Pregnancy Complication,Mild
+D00314,A00314,Pregnancy Complication,Critical
+D00315,A00315,Diabetes,Mild
+D00316,A00316,Fracture,Moderate
+D00317,A00317,Fever,Moderate
+D00318,A00318,Hypertension,Critical
+D00319,A00319,Stroke,Critical
+D00320,A00320,Hypertension,Critical
+D00321,A00321,Arthritis,Critical
+D00322,A00322,Diabetes,Mild
+D00323,A00323,Heart Attack,Critical
+D00324,A00324,Fracture,Mild
+D00325,A00325,Diabetes,Mild
+D00326,A00326,Arthritis,Moderate
+D00327,A00327,Ovarian Cyst,Mild
+D00328,A00328,Pregnancy Complication,Critical
+D00329,A00329,Migraine,Moderate
+D00330,A00330,Pregnancy Complication,Critical
+D00331,A00331,Hypertension,Mild
+D00332,A00332,Stroke,Critical
+D00333,A00333,Fracture,Moderate
+D00334,A00334,Ovarian Cyst,Critical
+D00335,A00335,Arthritis,Moderate
+D00336,A00336,Migraine,Mild
+D00337,A00337,Stroke,Moderate
+D00338,A00338,Hypertension,Mild
+D00339,A00339,Pregnancy Complication,Mild
+D00340,A00340,Hypertension,Mild
+D00341,A00341,Heart Attack,Moderate
+D00342,A00342,Diabetes,Critical
+D00343,A00343,Arthritis,Moderate
+D00344,A00344,Pregnancy Complication,Moderate
+D00345,A00345,Migraine,Critical
+D00346,A00346,Migraine,Moderate
+D00347,A00347,Stroke,Moderate
+D00348,A00348,Arthritis,Mild
+D00349,A00349,Pregnancy Complication,Mild
+D00350,A00350,Ovarian Cyst,Mild
+D00351,A00351,Stroke,Mild
+D00352,A00352,Ovarian Cyst,Mild
+D00353,A00353,Pregnancy Complication,Moderate
+D00354,A00354,Ovarian Cyst,Critical
+D00355,A00355,Pregnancy Complication,Moderate
+D00356,A00356,Fracture,Moderate
+D00357,A00357,Fever,Moderate
+D00358,A00358,Arthritis,Critical
+D00359,A00359,Hypertension,Moderate
+D00360,A00360,Arthritis,Mild
+D00361,A00361,Fracture,Mild
+D00362,A00362,Diabetes,Mild
+D00363,A00363,Ovarian Cyst,Moderate
+D00364,A00364,Stroke,Mild
+D00365,A00365,Pregnancy Complication,Critical
+D00366,A00366,Heart Attack,Critical
+D00367,A00367,Fever,Critical
+D00368,A00368,Fever,Moderate
+D00369,A00369,Stroke,Mild
+D00370,A00370,Migraine,Critical
+D00371,A00371,Ovarian Cyst,Moderate
+D00372,A00372,Fever,Moderate
+D00373,A00373,Fracture,Moderate
+D00374,A00374,Hypertension,Critical
+D00375,A00375,Heart Attack,Moderate
+D00376,A00376,Stroke,Mild
+D00377,A00377,Stroke,Moderate
+D00378,A00378,Hypertension,Moderate
+D00379,A00379,Arthritis,Critical
+D00380,A00380,Ovarian Cyst,Moderate
+D00381,A00381,Heart Attack,Critical
+D00382,A00382,Migraine,Moderate
+D00383,A00383,Ovarian Cyst,Mild
+D00384,A00384,Ovarian Cyst,Critical
+D00385,A00385,Arthritis,Moderate
+D00386,A00386,Heart Attack,Critical
+D00387,A00387,Ovarian Cyst,Critical
+D00388,A00388,Migraine,Mild
+D00389,A00389,Diabetes,Moderate
+D00390,A00390,Ovarian Cyst,Mild
+D00391,A00391,Migraine,Mild
+D00392,A00392,Fever,Mild
+D00393,A00393,Ovarian Cyst,Moderate
+D00394,A00394,Arthritis,Moderate
+D00395,A00395,Heart Attack,Mild
+D00396,A00396,Arthritis,Moderate
+D00397,A00397,Arthritis,Critical
+D00398,A00398,Migraine,Critical
+D00399,A00399,Fever,Moderate
+D00400,A00400,Stroke,Moderate
+D00401,A00401,Stroke,Moderate
+D00402,A00402,Hypertension,Moderate
+D00403,A00403,Hypertension,Moderate
+D00404,A00404,Diabetes,Mild
+D00405,A00405,Pregnancy Complication,Moderate
+D00406,A00406,Fever,Moderate
+D00407,A00407,Migraine,Mild
+D00408,A00408,Fracture,Critical
+D00409,A00409,Hypertension,Moderate
+D00410,A00410,Fever,Critical
+D00411,A00411,Ovarian Cyst,Moderate
+D00412,A00412,Stroke,Moderate
+D00413,A00413,Pregnancy Complication,Moderate
+D00414,A00414,Fever,Moderate
+D00415,A00415,Diabetes,Mild
+D00416,A00416,Fracture,Critical
+D00417,A00417,Arthritis,Mild
+D00418,A00418,Diabetes,Moderate
+D00419,A00419,Heart Attack,Critical
+D00420,A00420,Stroke,Mild
+D00421,A00421,Fever,Critical
+D00422,A00422,Diabetes,Moderate
+D00423,A00423,Stroke,Moderate
+D00424,A00424,Pregnancy Complication,Moderate
+D00425,A00425,Hypertension,Critical
+D00426,A00426,Stroke,Critical
+D00427,A00427,Stroke,Mild
+D00428,A00428,Migraine,Mild
+D00429,A00429,Fever,Moderate
+D00430,A00430,Fever,Mild
+D00431,A00431,Arthritis,Critical
+D00432,A00432,Hypertension,Moderate
+D00433,A00433,Pregnancy Complication,Critical
+D00434,A00434,Hypertension,Critical
+D00435,A00435,Pregnancy Complication,Moderate
+D00436,A00436,Fever,Mild
+D00437,A00437,Heart Attack,Mild
+D00438,A00438,Hypertension,Critical
+D00439,A00439,Heart Attack,Moderate
+D00440,A00440,Fever,Mild
+D00441,A00441,Migraine,Mild
+D00442,A00442,Stroke,Mild
+D00443,A00443,Diabetes,Moderate
+D00444,A00444,Pregnancy Complication,Critical
+D00445,A00445,Migraine,Moderate
+D00446,A00446,Arthritis,Critical
+D00447,A00447,Diabetes,Moderate
+D00448,A00448,Fracture,Mild
+D00449,A00449,Ovarian Cyst,Mild
+D00450,A00450,Fever,Mild
+D00451,A00451,Fever,Critical
+D00452,A00452,Fever,Mild
+D00453,A00453,Ovarian Cyst,Moderate
+D00454,A00454,Heart Attack,Critical
+D00455,A00455,Fever,Moderate
+D00456,A00456,Stroke,Mild
+D00457,A00457,Arthritis,Moderate
+D00458,A00458,Fracture,Moderate
+D00459,A00459,Diabetes,Mild
+D00460,A00460,Heart Attack,Mild
+D00461,A00461,Stroke,Critical
+D00462,A00462,Arthritis,Moderate
+D00463,A00463,Arthritis,Mild
+D00464,A00464,Diabetes,Critical
+D00465,A00465,Stroke,Mild
+D00466,A00466,Pregnancy Complication,Critical
+D00467,A00467,Diabetes,Mild
+D00468,A00468,Arthritis,Mild
+D00469,A00469,Ovarian Cyst,Critical
+D00470,A00470,Arthritis,Moderate
+D00471,A00471,Pregnancy Complication,Critical
+D00472,A00472,Diabetes,Mild
+D00473,A00473,Hypertension,Moderate
+D00474,A00474,Hypertension,Critical
+D00475,A00475,Diabetes,Mild
+D00476,A00476,Fever,Critical
+D00477,A00477,Heart Attack,Moderate
+D00478,A00478,Diabetes,Critical
+D00479,A00479,Ovarian Cyst,Moderate
+D00480,A00480,Migraine,Moderate
+D00481,A00481,Heart Attack,Moderate
+D00482,A00482,Hypertension,Moderate
+D00483,A00483,Hypertension,Mild
+D00484,A00484,Ovarian Cyst,Moderate
+D00485,A00485,Ovarian Cyst,Moderate
+D00486,A00486,Pregnancy Complication,Moderate
+D00487,A00487,Fever,Critical
+D00488,A00488,Heart Attack,Critical
+D00489,A00489,Arthritis,Critical
+D00490,A00490,Pregnancy Complication,Mild
+D00491,A00491,Arthritis,Critical
+D00492,A00492,Arthritis,Moderate
+D00493,A00493,Migraine,Moderate
+D00494,A00494,Ovarian Cyst,Critical
+D00495,A00495,Heart Attack,Moderate
+D00496,A00496,Fracture,Critical
+D00497,A00497,Hypertension,Mild
+D00498,A00498,Fever,Mild
+D00499,A00499,Heart Attack,Critical
+D00500,A00500,Arthritis,Mild
+D00501,A00501,Hypertension,Moderate
+D00502,A00502,Diabetes,Mild
+D00503,A00503,Fever,Critical
+D00504,A00504,Ovarian Cyst,Mild
+D00505,A00505,Pregnancy Complication,Moderate
+D00506,A00506,Migraine,Critical
+D00507,A00507,Stroke,Mild
+D00508,A00508,Ovarian Cyst,Mild
+D00509,A00509,Pregnancy Complication,Moderate
+D00510,A00510,Heart Attack,Critical
+D00511,A00511,Ovarian Cyst,Mild
+D00512,A00512,Fever,Moderate
+D00513,A00513,Pregnancy Complication,Moderate
+D00514,A00514,Migraine,Mild
+D00515,A00515,Hypertension,Mild
+D00516,A00516,Fever,Critical
+D00517,A00517,Ovarian Cyst,Moderate
+D00518,A00518,Hypertension,Mild
+D00519,A00519,Fracture,Critical
+D00520,A00520,Fever,Critical
+D00521,A00521,Fracture,Critical
+D00522,A00522,Fever,Mild
+D00523,A00523,Stroke,Mild
+D00524,A00524,Migraine,Mild
+D00525,A00525,Diabetes,Critical
+D00526,A00526,Migraine,Critical
+D00527,A00527,Arthritis,Critical
+D00528,A00528,Fever,Mild
+D00529,A00529,Migraine,Moderate
+D00530,A00530,Fracture,Mild
+D00531,A00531,Stroke,Moderate
+D00532,A00532,Hypertension,Mild
+D00533,A00533,Fracture,Moderate
+D00534,A00534,Arthritis,Moderate
+D00535,A00535,Fracture,Mild
+D00536,A00536,Migraine,Moderate
+D00537,A00537,Migraine,Moderate
+D00538,A00538,Fever,Mild
+D00539,A00539,Diabetes,Mild
+D00540,A00540,Stroke,Moderate
+D00541,A00541,Arthritis,Moderate
+D00542,A00542,Migraine,Critical
+D00543,A00543,Migraine,Mild
+D00544,A00544,Pregnancy Complication,Mild
+D00545,A00545,Stroke,Critical
+D00546,A00546,Ovarian Cyst,Mild
+D00547,A00547,Pregnancy Complication,Moderate
+D00548,A00548,Migraine,Mild
+D00549,A00549,Pregnancy Complication,Mild
+D00550,A00550,Pregnancy Complication,Mild
+D00551,A00551,Ovarian Cyst,Critical
+D00552,A00552,Ovarian Cyst,Critical
+D00553,A00553,Diabetes,Moderate
+D00554,A00554,Hypertension,Critical
+D00555,A00555,Hypertension,Critical
+D00556,A00556,Diabetes,Moderate
+D00557,A00557,Fever,Moderate
+D00558,A00558,Heart Attack,Critical
+D00559,A00559,Pregnancy Complication,Moderate
+D00560,A00560,Fracture,Critical
+D00561,A00561,Pregnancy Complication,Critical
+D00562,A00562,Hypertension,Critical
+D00563,A00563,Pregnancy Complication,Mild
+D00564,A00564,Hypertension,Mild
+D00565,A00565,Fever,Critical
+D00566,A00566,Pregnancy Complication,Moderate
+D00567,A00567,Heart Attack,Critical
+D00568,A00568,Diabetes,Mild
+D00569,A00569,Heart Attack,Critical
+D00570,A00570,Migraine,Critical
+D00571,A00571,Hypertension,Critical
+D00572,A00572,Heart Attack,Mild
+D00573,A00573,Fever,Critical
+D00574,A00574,Diabetes,Mild
+D00575,A00575,Migraine,Critical
+D00576,A00576,Migraine,Critical
+D00577,A00577,Stroke,Critical
+D00578,A00578,Fracture,Moderate
+D00579,A00579,Arthritis,Critical
+D00580,A00580,Migraine,Mild
+D00581,A00581,Fever,Critical
+D00582,A00582,Ovarian Cyst,Moderate
+D00583,A00583,Diabetes,Critical
+D00584,A00584,Ovarian Cyst,Moderate
+D00585,A00585,Diabetes,Mild
+D00586,A00586,Ovarian Cyst,Moderate
+D00587,A00587,Diabetes,Moderate
+D00588,A00588,Fever,Critical
+D00589,A00589,Diabetes,Critical
+D00590,A00590,Stroke,Mild
+D00591,A00591,Arthritis,Critical
+D00592,A00592,Heart Attack,Moderate
+D00593,A00593,Hypertension,Mild
+D00594,A00594,Ovarian Cyst,Critical
+D00595,A00595,Arthritis,Moderate
+D00596,A00596,Fever,Mild
+D00597,A00597,Heart Attack,Moderate
+D00598,A00598,Fracture,Moderate
+D00599,A00599,Ovarian Cyst,Moderate
+D00600,A00600,Ovarian Cyst,Moderate
+D00601,A00601,Arthritis,Critical
+D00602,A00602,Pregnancy Complication,Moderate
+D00603,A00603,Diabetes,Critical
+D00604,A00604,Diabetes,Moderate
+D00605,A00605,Diabetes,Critical
+D00606,A00606,Diabetes,Mild
+D00607,A00607,Fever,Critical
+D00608,A00608,Fever,Moderate
+D00609,A00609,Pregnancy Complication,Mild
+D00610,A00610,Fever,Critical
+D00611,A00611,Stroke,Moderate
+D00612,A00612,Hypertension,Mild
+D00613,A00613,Stroke,Critical
+D00614,A00614,Hypertension,Mild
+D00615,A00615,Diabetes,Mild
+D00616,A00616,Stroke,Moderate
+D00617,A00617,Hypertension,Mild
+D00618,A00618,Fever,Mild
+D00619,A00619,Hypertension,Moderate
+D00620,A00620,Pregnancy Complication,Moderate
+D00621,A00621,Migraine,Moderate
+D00622,A00622,Ovarian Cyst,Mild
+D00623,A00623,Stroke,Critical
+D00624,A00624,Pregnancy Complication,Mild
+D00625,A00625,Pregnancy Complication,Moderate
+D00626,A00626,Fracture,Mild
+D00627,A00627,Diabetes,Mild
+D00628,A00628,Fever,Critical
+D00629,A00629,Hypertension,Mild
+D00630,A00630,Heart Attack,Moderate
+D00631,A00631,Diabetes,Critical
+D00632,A00632,Diabetes,Critical
+D00633,A00633,Diabetes,Moderate
+D00634,A00634,Arthritis,Moderate
+D00635,A00635,Ovarian Cyst,Mild
+D00636,A00636,Migraine,Moderate
+D00637,A00637,Arthritis,Mild
+D00638,A00638,Arthritis,Mild
+D00639,A00639,Arthritis,Moderate
+D00640,A00640,Heart Attack,Moderate
+D00641,A00641,Hypertension,Critical
+D00642,A00642,Stroke,Critical
+D00643,A00643,Pregnancy Complication,Critical
+D00644,A00644,Migraine,Critical
+D00645,A00645,Stroke,Mild
+D00646,A00646,Ovarian Cyst,Critical
+D00647,A00647,Hypertension,Critical
+D00648,A00648,Heart Attack,Critical
+D00649,A00649,Ovarian Cyst,Mild
+D00650,A00650,Fever,Critical
+D00651,A00651,Fever,Moderate
+D00652,A00652,Fracture,Mild
+D00653,A00653,Fracture,Mild
+D00654,A00654,Arthritis,Mild
+D00655,A00655,Fracture,Critical
+D00656,A00656,Arthritis,Mild
+D00657,A00657,Diabetes,Moderate
+D00658,A00658,Fever,Moderate
+D00659,A00659,Fracture,Moderate
+D00660,A00660,Arthritis,Mild
+D00661,A00661,Hypertension,Mild
+D00662,A00662,Arthritis,Moderate
+D00663,A00663,Migraine,Mild
+D00664,A00664,Heart Attack,Mild
+D00665,A00665,Heart Attack,Moderate
+D00666,A00666,Ovarian Cyst,Mild
+D00667,A00667,Diabetes,Mild
+D00668,A00668,Fracture,Moderate
+D00669,A00669,Migraine,Critical
+D00670,A00670,Fever,Mild
+D00671,A00671,Pregnancy Complication,Mild
+D00672,A00672,Fracture,Critical
+D00673,A00673,Stroke,Moderate
+D00674,A00674,Diabetes,Mild
+D00675,A00675,Pregnancy Complication,Mild
+D00676,A00676,Arthritis,Moderate
+D00677,A00677,Hypertension,Moderate
+D00678,A00678,Heart Attack,Mild
+D00679,A00679,Ovarian Cyst,Mild
+D00680,A00680,Fracture,Moderate
+D00681,A00681,Hypertension,Mild
+D00682,A00682,Arthritis,Mild
+D00683,A00683,Diabetes,Moderate
+D00684,A00684,Diabetes,Mild
+D00685,A00685,Diabetes,Mild
+D00686,A00686,Migraine,Critical
+D00687,A00687,Heart Attack,Mild
+D00688,A00688,Diabetes,Critical
+D00689,A00689,Fever,Mild
+D00690,A00690,Stroke,Moderate
+D00691,A00691,Diabetes,Moderate
+D00692,A00692,Fever,Critical
+D00693,A00693,Fever,Mild
+D00694,A00694,Migraine,Critical
+D00695,A00695,Heart Attack,Mild
+D00696,A00696,Pregnancy Complication,Critical
+D00697,A00697,Hypertension,Mild
+D00698,A00698,Stroke,Moderate
+D00699,A00699,Migraine,Critical
+D00700,A00700,Fracture,Mild
+D00701,A00701,Fever,Moderate
+D00702,A00702,Migraine,Critical
+D00703,A00703,Diabetes,Critical
+D00704,A00704,Arthritis,Moderate
+D00705,A00705,Heart Attack,Critical
+D00706,A00706,Arthritis,Mild
+D00707,A00707,Fever,Critical
+D00708,A00708,Fever,Moderate
+D00709,A00709,Fracture,Moderate
+D00710,A00710,Ovarian Cyst,Mild
+D00711,A00711,Pregnancy Complication,Moderate
+D00712,A00712,Ovarian Cyst,Critical
+D00713,A00713,Pregnancy Complication,Critical
+D00714,A00714,Diabetes,Critical
+D00715,A00715,Pregnancy Complication,Critical
+D00716,A00716,Migraine,Moderate
+D00717,A00717,Heart Attack,Critical
+D00718,A00718,Pregnancy Complication,Moderate
+D00719,A00719,Heart Attack,Moderate
+D00720,A00720,Pregnancy Complication,Mild
+D00721,A00721,Stroke,Critical
+D00722,A00722,Ovarian Cyst,Critical
+D00723,A00723,Arthritis,Mild
+D00724,A00724,Ovarian Cyst,Critical
+D00725,A00725,Ovarian Cyst,Moderate
+D00726,A00726,Arthritis,Moderate
+D00727,A00727,Fever,Critical
+D00728,A00728,Heart Attack,Critical
+D00729,A00729,Heart Attack,Critical
+D00730,A00730,Migraine,Critical
+D00731,A00731,Fever,Moderate
+D00732,A00732,Diabetes,Critical
+D00733,A00733,Pregnancy Complication,Moderate
+D00734,A00734,Fever,Critical
+D00735,A00735,Heart Attack,Mild
+D00736,A00736,Hypertension,Moderate
+D00737,A00737,Fever,Moderate
+D00738,A00738,Fracture,Mild
+D00739,A00739,Fracture,Moderate
+D00740,A00740,Hypertension,Mild
+D00741,A00741,Fracture,Critical
+D00742,A00742,Diabetes,Critical
+D00743,A00743,Heart Attack,Mild
+D00744,A00744,Hypertension,Moderate
+D00745,A00745,Heart Attack,Moderate
+D00746,A00746,Hypertension,Critical
+D00747,A00747,Stroke,Mild
+D00748,A00748,Fracture,Critical
+D00749,A00749,Diabetes,Mild
+D00750,A00750,Migraine,Critical
+D00751,A00751,Migraine,Mild
+D00752,A00752,Ovarian Cyst,Critical
+D00753,A00753,Heart Attack,Mild
+D00754,A00754,Stroke,Critical
+D00755,A00755,Ovarian Cyst,Mild
+D00756,A00756,Pregnancy Complication,Critical
+D00757,A00757,Fever,Critical
+D00758,A00758,Arthritis,Mild
+D00759,A00759,Stroke,Critical
+D00760,A00760,Pregnancy Complication,Critical
+D00761,A00761,Diabetes,Mild
+D00762,A00762,Pregnancy Complication,Critical
+D00763,A00763,Stroke,Moderate
+D00764,A00764,Arthritis,Moderate
+D00765,A00765,Arthritis,Mild
+D00766,A00766,Diabetes,Moderate
+D00767,A00767,Diabetes,Critical
+D00768,A00768,Fracture,Critical
+D00769,A00769,Fracture,Mild
+D00770,A00770,Migraine,Moderate
+D00771,A00771,Arthritis,Moderate
+D00772,A00772,Fever,Moderate
+D00773,A00773,Heart Attack,Moderate
+D00774,A00774,Heart Attack,Critical
+D00775,A00775,Fracture,Critical
+D00776,A00776,Fracture,Critical
+D00777,A00777,Hypertension,Mild
+D00778,A00778,Fever,Mild
+D00779,A00779,Heart Attack,Moderate
+D00780,A00780,Diabetes,Mild
+D00781,A00781,Fever,Mild
+D00782,A00782,Migraine,Moderate
+D00783,A00783,Ovarian Cyst,Critical
+D00784,A00784,Arthritis,Moderate
+D00785,A00785,Fracture,Mild
+D00786,A00786,Arthritis,Mild
+D00787,A00787,Pregnancy Complication,Mild
+D00788,A00788,Arthritis,Critical
+D00789,A00789,Ovarian Cyst,Mild
+D00790,A00790,Migraine,Mild
+D00791,A00791,Pregnancy Complication,Critical
+D00792,A00792,Fever,Mild
+D00793,A00793,Fever,Mild
+D00794,A00794,Arthritis,Moderate
+D00795,A00795,Heart Attack,Mild
+D00796,A00796,Fracture,Moderate
+D00797,A00797,Ovarian Cyst,Moderate
+D00798,A00798,Hypertension,Mild
+D00799,A00799,Stroke,Critical
+D00800,A00800,Fever,Critical
+D00801,A00801,Ovarian Cyst,Moderate
+D00802,A00802,Pregnancy Complication,Moderate
+D00803,A00803,Stroke,Critical
+D00804,A00804,Pregnancy Complication,Mild
+D00805,A00805,Fever,Moderate
+D00806,A00806,Arthritis,Moderate
+D00807,A00807,Hypertension,Critical
+D00808,A00808,Fracture,Moderate
+D00809,A00809,Fracture,Moderate
+D00810,A00810,Diabetes,Critical
+D00811,A00811,Stroke,Mild
+D00812,A00812,Heart Attack,Mild
+D00813,A00813,Heart Attack,Critical
+D00814,A00814,Stroke,Critical
+D00815,A00815,Heart Attack,Critical
+D00816,A00816,Pregnancy Complication,Moderate
+D00817,A00817,Arthritis,Moderate
+D00818,A00818,Pregnancy Complication,Mild
+D00819,A00819,Fracture,Mild
+D00820,A00820,Heart Attack,Mild
+D00821,A00821,Stroke,Moderate
+D00822,A00822,Migraine,Critical
+D00823,A00823,Hypertension,Moderate
+D00824,A00824,Heart Attack,Mild
+D00825,A00825,Hypertension,Moderate
+D00826,A00826,Hypertension,Moderate
+D00827,A00827,Arthritis,Mild
+D00828,A00828,Fever,Mild
+D00829,A00829,Heart Attack,Critical
+D00830,A00830,Ovarian Cyst,Moderate
+D00831,A00831,Migraine,Mild
+D00832,A00832,Ovarian Cyst,Critical
+D00833,A00833,Fever,Mild
+D00834,A00834,Migraine,Mild
+D00835,A00835,Migraine,Critical
+D00836,A00836,Hypertension,Critical
+D00837,A00837,Pregnancy Complication,Critical
+D00838,A00838,Diabetes,Critical
+D00839,A00839,Migraine,Moderate
+D00840,A00840,Hypertension,Mild
+D00841,A00841,Heart Attack,Moderate
+D00842,A00842,Heart Attack,Moderate
+D00843,A00843,Heart Attack,Mild
+D00844,A00844,Ovarian Cyst,Critical
+D00845,A00845,Stroke,Moderate
+D00846,A00846,Ovarian Cyst,Mild
+D00847,A00847,Migraine,Critical
+D00848,A00848,Migraine,Critical
+D00849,A00849,Hypertension,Mild
+D00850,A00850,Pregnancy Complication,Mild
+D00851,A00851,Stroke,Moderate
+D00852,A00852,Fever,Mild
+D00853,A00853,Arthritis,Mild
+D00854,A00854,Stroke,Mild
+D00855,A00855,Migraine,Moderate
+D00856,A00856,Ovarian Cyst,Critical
+D00857,A00857,Migraine,Mild
+D00858,A00858,Fracture,Mild
+D00859,A00859,Ovarian Cyst,Moderate
+D00860,A00860,Fever,Mild
+D00861,A00861,Hypertension,Critical
+D00862,A00862,Stroke,Moderate
+D00863,A00863,Ovarian Cyst,Mild
+D00864,A00864,Stroke,Mild
+D00865,A00865,Fever,Moderate
+D00866,A00866,Stroke,Mild
+D00867,A00867,Heart Attack,Moderate
+D00868,A00868,Heart Attack,Moderate
+D00869,A00869,Stroke,Moderate
+D00870,A00870,Hypertension,Mild
+D00871,A00871,Pregnancy Complication,Moderate
+D00872,A00872,Stroke,Critical
+D00873,A00873,Pregnancy Complication,Critical
+D00874,A00874,Fracture,Mild
+D00875,A00875,Stroke,Mild
+D00876,A00876,Stroke,Mild
+D00877,A00877,Hypertension,Critical
+D00878,A00878,Migraine,Moderate
+D00879,A00879,Pregnancy Complication,Critical
+D00880,A00880,Fracture,Mild
+D00881,A00881,Fever,Critical
+D00882,A00882,Migraine,Mild
+D00883,A00883,Pregnancy Complication,Mild
+D00884,A00884,Fever,Critical
+D00885,A00885,Arthritis,Mild
+D00886,A00886,Migraine,Mild
+D00887,A00887,Ovarian Cyst,Moderate
+D00888,A00888,Stroke,Mild
+D00889,A00889,Hypertension,Critical
+D00890,A00890,Diabetes,Moderate
+D00891,A00891,Diabetes,Mild
+D00892,A00892,Hypertension,Critical
+D00893,A00893,Migraine,Critical
+D00894,A00894,Hypertension,Critical
+D00895,A00895,Migraine,Moderate
+D00896,A00896,Migraine,Critical
+D00897,A00897,Pregnancy Complication,Critical
+D00898,A00898,Ovarian Cyst,Mild
+D00899,A00899,Ovarian Cyst,Mild
+D00900,A00900,Migraine,Mild
+D00901,A00901,Hypertension,Mild
+D00902,A00902,Arthritis,Moderate
+D00903,A00903,Pregnancy Complication,Critical
+D00904,A00904,Fever,Moderate
+D00905,A00905,Diabetes,Critical
+D00906,A00906,Fever,Mild
+D00907,A00907,Heart Attack,Moderate
+D00908,A00908,Pregnancy Complication,Critical
+D00909,A00909,Arthritis,Mild
+D00910,A00910,Heart Attack,Moderate
+D00911,A00911,Arthritis,Moderate
+D00912,A00912,Hypertension,Moderate
+D00913,A00913,Migraine,Moderate
+D00914,A00914,Arthritis,Moderate
+D00915,A00915,Pregnancy Complication,Moderate
+D00916,A00916,Hypertension,Mild
+D00917,A00917,Ovarian Cyst,Moderate
+D00918,A00918,Fever,Moderate
+D00919,A00919,Fever,Moderate
+D00920,A00920,Fever,Moderate
+D00921,A00921,Stroke,Moderate
+D00922,A00922,Heart Attack,Mild
+D00923,A00923,Fracture,Mild
+D00924,A00924,Migraine,Mild
+D00925,A00925,Stroke,Moderate
+D00926,A00926,Stroke,Critical
+D00927,A00927,Pregnancy Complication,Moderate
+D00928,A00928,Arthritis,Critical
+D00929,A00929,Hypertension,Mild
+D00930,A00930,Heart Attack,Critical
+D00931,A00931,Diabetes,Mild
+D00932,A00932,Diabetes,Moderate
+D00933,A00933,Pregnancy Complication,Moderate
+D00934,A00934,Arthritis,Critical
+D00935,A00935,Stroke,Moderate
+D00936,A00936,Ovarian Cyst,Moderate
+D00937,A00937,Heart Attack,Mild
+D00938,A00938,Fracture,Moderate
+D00939,A00939,Fever,Critical
+D00940,A00940,Arthritis,Critical
+D00941,A00941,Migraine,Moderate
+D00942,A00942,Heart Attack,Moderate
+D00943,A00943,Fever,Moderate
+D00944,A00944,Arthritis,Mild
+D00945,A00945,Migraine,Moderate
+D00946,A00946,Fracture,Moderate
+D00947,A00947,Ovarian Cyst,Critical
+D00948,A00948,Fracture,Moderate
+D00949,A00949,Ovarian Cyst,Moderate
+D00950,A00950,Pregnancy Complication,Moderate
+D00951,A00951,Heart Attack,Moderate
+D00952,A00952,Pregnancy Complication,Critical
+D00953,A00953,Migraine,Critical
+D00954,A00954,Hypertension,Moderate
+D00955,A00955,Stroke,Critical
+D00956,A00956,Heart Attack,Mild
+D00957,A00957,Stroke,Moderate
+D00958,A00958,Hypertension,Moderate
+D00959,A00959,Fever,Moderate
+D00960,A00960,Fever,Critical
+D00961,A00961,Migraine,Mild
+D00962,A00962,Diabetes,Mild
+D00963,A00963,Diabetes,Critical
+D00964,A00964,Pregnancy Complication,Critical
+D00965,A00965,Diabetes,Mild
+D00966,A00966,Ovarian Cyst,Mild
+D00967,A00967,Fracture,Mild
+D00968,A00968,Hypertension,Mild
+D00969,A00969,Fracture,Mild
+D00970,A00970,Fever,Moderate
+D00971,A00971,Pregnancy Complication,Mild
+D00972,A00972,Fracture,Moderate
+D00973,A00973,Ovarian Cyst,Moderate
+D00974,A00974,Fever,Moderate
+D00975,A00975,Stroke,Mild
+D00976,A00976,Diabetes,Moderate
+D00977,A00977,Diabetes,Mild
+D00978,A00978,Heart Attack,Mild
+D00979,A00979,Pregnancy Complication,Moderate
+D00980,A00980,Ovarian Cyst,Moderate
+D00981,A00981,Stroke,Mild
+D00982,A00982,Fever,Moderate
+D00983,A00983,Arthritis,Critical
+D00984,A00984,Diabetes,Mild
+D00985,A00985,Hypertension,Critical
+D00986,A00986,Fracture,Critical
+D00987,A00987,Hypertension,Moderate
+D00988,A00988,Stroke,Mild
+D00989,A00989,Heart Attack,Moderate
+D00990,A00990,Ovarian Cyst,Moderate
+D00991,A00991,Fracture,Critical
+D00992,A00992,Pregnancy Complication,Critical
+D00993,A00993,Hypertension,Moderate
+D00994,A00994,Diabetes,Critical
+D00995,A00995,Stroke,Critical
+D00996,A00996,Fracture,Moderate
+D00997,A00997,Arthritis,Moderate
+D00998,A00998,Arthritis,Moderate
+D00999,A00999,Fracture,Moderate
+D01000,A01000,Fracture,Mild
