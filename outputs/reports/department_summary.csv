@@ -1,0 +1,6 @@
+department,total_patients,avg_length_of_stay,avg_treatment_cost
+Cardiology,190,10.71,212043.26
+General Medicine,224,10.81,196460.0
+Gynecology,200,10.73,207824.33
+Neurology,197,10.79,188470.85
+Orthopedics,189,10.61,204718.87
