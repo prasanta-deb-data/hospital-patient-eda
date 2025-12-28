@@ -1,0 +1,16 @@
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  logs: "logs"
+
+data:
+  num_patients: 1000
+
+logging:
+  level: "INFO"
+  file_name: "pipeline.log"
+
+plots:
+  figsize:
+    width: 10
+    height: 6
